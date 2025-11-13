@@ -1,0 +1,281 @@
+{
+  "total_symbols": 4819394,
+  "unique_symbols": 55,
+  "symbols": {
+    "72": {
+      "char": "H",
+      "count": 10020,
+      "probability": 0.002079
+    },
+    "111": {
+      "char": "o",
+      "count": 40033,
+      "probability": 0.008307
+    },
+    "109": {
+      "char": "m",
+      "count": 59880,
+      "probability": 0.012425
+    },
+    "101": {
+      "char": "e",
+      "count": 129719,
+      "probability": 0.026916
+    },
+    "32": {
+      "char": " ",
+      "count": 20027,
+      "probability": 0.004156
+    },
+    "73": {
+      "char": "I",
+      "count": 1,
+      "probability": 0.0
+    },
+    "68": {
+      "char": "D",
+      "count": 10097,
+      "probability": 0.002095
+    },
+    "44": {
+      "char": ",",
+      "count": 700007,
+      "probability": 0.145248
+    },
+    "65": {
+      "char": "A",
+      "count": 10068,
+      "probability": 0.002089
+    },
+    "112": {
+      "char": "p",
+      "count": 35061,
+      "probability": 0.007275
+    },
+    "108": {
+      "char": "l",
+      "count": 50054,
+      "probability": 0.010386
+    },
+    "105": {
+      "char": "i",
+      "count": 150360,
+      "probability": 0.031199
+    },
+    "97": {
+      "char": "a",
+      "count": 74996,
+      "probability": 0.015561
+    },
+    "110": {
+      "char": "n",
+      "count": 110059,
+      "probability": 0.022837
+    },
+    "99": {
+      "char": "c",
+      "count": 19901,
+      "probability": 0.004129
+    },
+    "84": {
+      "char": "T",
+      "count": 9908,
+      "probability": 0.002056
+    },
+    "121": {
+      "char": "y",
+      "count": 2,
+      "probability": 0.0
+    },
+    "69": {
+      "char": "E",
+      "count": 1,
+      "probability": 0.0
+    },
+    "114": {
+      "char": "r",
+      "count": 134980,
+      "probability": 0.028008
+    },
+    "103": {
+      "char": "g",
+      "count": 65265,
+      "probability": 0.013542
+    },
+    "67": {
+      "char": "C",
+      "count": 20013,
+      "probability": 0.004153
+    },
+    "115": {
+      "char": "s",
+      "count": 40347,
+      "probability": 0.008372
+    },
+    "117": {
+      "char": "u",
+      "count": 34914,
+      "probability": 0.007244
+    },
+    "116": {
+      "char": "t",
+      "count": 65130,
+      "probability": 0.013514
+    },
+    "40": {
+      "char": "(",
+      "count": 2,
+      "probability": 0.0
+    },
+    "107": {
+      "char": "k",
+      "count": 1,
+      "probability": 0.0
+    },
+    "87": {
+      "char": "W",
+      "count": 34850,
+      "probability": 0.007231
+    },
+    "104": {
+      "char": "h",
+      "count": 50299,
+      "probability": 0.010437
+    },
+    "41": {
+      "char": ")",
+      "count": 2,
+      "probability": 0.0
+    },
+    "79": {
+      "char": "O",
+      "count": 9940,
+      "probability": 0.002062
+    },
+    "100": {
+      "char": "d",
+      "count": 20000,
+      "probability": 0.00415
+    },
+    "194": {
+      "char": "\\xc2",
+      "count": 1,
+      "probability": 0.0
+    },
+    "176": {
+      "char": "\\xb0",
+      "count": 1,
+      "probability": 0.0
+    },
+    "83": {
+      "char": "S",
+      "count": 50080,
+      "probability": 0.010391
+    },
+    "122": {
+      "char": "z",
+      "count": 1,
+      "probability": 0.0
+    },
+    "10": {
+      "char": "\\x0a",
+      "count": 100001,
+      "probability": 0.02075
+    },
+    "57": {
+      "char": "9",
+      "count": 95594,
+      "probability": 0.019835
+    },
+    "52": {
+      "char": "4",
+      "count": 162679,
+      "probability": 0.033755
+    },
+    "70": {
+      "char": "F",
+      "count": 34957,
+      "probability": 0.007253
+    },
+    "48": {
+      "char": "0",
+      "count": 388464,
+      "probability": 0.080604
+    },
+    "46": {
+      "char": ".",
+      "count": 200000,
+      "probability": 0.041499
+    },
+    "50": {
+      "char": "2",
+      "count": 443309,
+      "probability": 0.091984
+    },
+    "49": {
+      "char": "1",
+      "count": 325149,
+      "probability": 0.067467
+    },
+    "58": {
+      "char": ":",
+      "count": 100000,
+      "probability": 0.020749
+    },
+    "51": {
+      "char": "3",
+      "count": 290717,
+      "probability": 0.060322
+    },
+    "45": {
+      "char": "-",
+      "count": 220135,
+      "probability": 0.045677
+    },
+    "53": {
+      "char": "5",
+      "count": 133624,
+      "probability": 0.027726
+    },
+    "118": {
+      "char": "v",
+      "count": 19886,
+      "probability": 0.004126
+    },
+    "56": {
+      "char": "8",
+      "count": 96242,
+      "probability": 0.01997
+    },
+    "54": {
+      "char": "6",
+      "count": 96414,
+      "probability": 0.020005
+    },
+    "119": {
+      "char": "w",
+      "count": 20042,
+      "probability": 0.004159
+    },
+    "55": {
+      "char": "7",
+      "count": 96155,
+      "probability": 0.019952
+    },
+    "77": {
+      "char": "M",
+      "count": 19900,
+      "probability": 0.004129
+    },
+    "86": {
+      "char": "V",
+      "count": 9905,
+      "probability": 0.002055
+    },
+    "76": {
+      "char": "L",
+      "count": 10201,
+      "probability": 0.002117
+    }
+  }
+}

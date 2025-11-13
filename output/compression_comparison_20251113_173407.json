@@ -1,0 +1,14 @@
+{
+  "Adaptive Huffman": {
+    "compression_ratio": 0.636445,
+    "compression_time": 140.60573,
+    "decompression_time": 8.733263,
+    "lossless": false
+  },
+  "PPM-C (Order 4)": {
+    "compression_ratio": 0.148521,
+    "compression_time": 21.843535,
+    "decompression_time": 26.208813,
+    "lossless": true
+  }
+}

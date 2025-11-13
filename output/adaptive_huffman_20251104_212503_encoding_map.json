@@ -1,0 +1,281 @@
+{
+  "total_symbols": 512000,
+  "unique_symbols": 55,
+  "symbols": {
+    "72": {
+      "char": "H",
+      "count": 1062,
+      "probability": 0.002074
+    },
+    "111": {
+      "char": "o",
+      "count": 4337,
+      "probability": 0.008471
+    },
+    "109": {
+      "char": "m",
+      "count": 6461,
+      "probability": 0.012619
+    },
+    "101": {
+      "char": "e",
+      "count": 13710,
+      "probability": 0.026777
+    },
+    "32": {
+      "char": " ",
+      "count": 2222,
+      "probability": 0.00434
+    },
+    "73": {
+      "char": "I",
+      "count": 1,
+      "probability": 2e-06
+    },
+    "68": {
+      "char": "D",
+      "count": 1028,
+      "probability": 0.002008
+    },
+    "44": {
+      "char": ",",
+      "count": 74308,
+      "probability": 0.145133
+    },
+    "65": {
+      "char": "A",
+      "count": 1126,
+      "probability": 0.002199
+    },
+    "112": {
+      "char": "p",
+      "count": 3649,
+      "probability": 0.007127
+    },
+    "108": {
+      "char": "l",
+      "count": 5432,
+      "probability": 0.010609
+    },
+    "105": {
+      "char": "i",
+      "count": 16007,
+      "probability": 0.031264
+    },
+    "97": {
+      "char": "a",
+      "count": 8017,
+      "probability": 0.015658
+    },
+    "110": {
+      "char": "n",
+      "count": 11834,
+      "probability": 0.023113
+    },
+    "99": {
+      "char": "c",
+      "count": 2123,
+      "probability": 0.004146
+    },
+    "84": {
+      "char": "T",
+      "count": 1087,
+      "probability": 0.002123
+    },
+    "121": {
+      "char": "y",
+      "count": 2,
+      "probability": 4e-06
+    },
+    "69": {
+      "char": "E",
+      "count": 1,
+      "probability": 2e-06
+    },
+    "114": {
+      "char": "r",
+      "count": 14194,
+      "probability": 0.027723
+    },
+    "103": {
+      "char": "g",
+      "count": 6884,
+      "probability": 0.013445
+    },
+    "67": {
+      "char": "C",
+      "count": 2174,
+      "probability": 0.004246
+    },
+    "115": {
+      "char": "s",
+      "count": 4215,
+      "probability": 0.008232
+    },
+    "117": {
+      "char": "u",
+      "count": 3756,
+      "probability": 0.007336
+    },
+    "116": {
+      "char": "t",
+      "count": 6903,
+      "probability": 0.013482
+    },
+    "40": {
+      "char": "(",
+      "count": 2,
+      "probability": 4e-06
+    },
+    "107": {
+      "char": "k",
+      "count": 1,
+      "probability": 2e-06
+    },
+    "87": {
+      "char": "W",
+      "count": 3688,
+      "probability": 0.007203
+    },
+    "104": {
+      "char": "h",
+      "count": 5304,
+      "probability": 0.010359
+    },
+    "41": {
+      "char": ")",
+      "count": 2,
+      "probability": 4e-06
+    },
+    "79": {
+      "char": "O",
+      "count": 1081,
+      "probability": 0.002111
+    },
+    "100": {
+      "char": "d",
+      "count": 2128,
+      "probability": 0.004156
+    },
+    "194": {
+      "char": "\\xc2",
+      "count": 1,
+      "probability": 2e-06
+    },
+    "176": {
+      "char": "\\xb0",
+      "count": 1,
+      "probability": 2e-06
+    },
+    "83": {
+      "char": "S",
+      "count": 5304,
+      "probability": 0.010359
+    },
+    "122": {
+      "char": "z",
+      "count": 1,
+      "probability": 2e-06
+    },
+    "10": {
+      "char": "\\x0a",
+      "count": 10615,
+      "probability": 0.020732
+    },
+    "57": {
+      "char": "9",
+      "count": 10250,
+      "probability": 0.02002
+    },
+    "52": {
+      "char": "4",
+      "count": 17163,
+      "probability": 0.033521
+    },
+    "70": {
+      "char": "F",
+      "count": 3716,
+      "probability": 0.007258
+    },
+    "48": {
+      "char": "0",
+      "count": 41277,
+      "probability": 0.080619
+    },
+    "46": {
+      "char": ".",
+      "count": 21229,
+      "probability": 0.041463
+    },
+    "50": {
+      "char": "2",
+      "count": 47061,
+      "probability": 0.091916
+    },
+    "49": {
+      "char": "1",
+      "count": 34590,
+      "probability": 0.067559
+    },
+    "58": {
+      "char": ":",
+      "count": 10615,
+      "probability": 0.020732
+    },
+    "51": {
+      "char": "3",
+      "count": 30922,
+      "probability": 0.060395
+    },
+    "45": {
+      "char": "-",
+      "count": 23378,
+      "probability": 0.04566
+    },
+    "53": {
+      "char": "5",
+      "count": 14207,
+      "probability": 0.027748
+    },
+    "118": {
+      "char": "v",
+      "count": 2112,
+      "probability": 0.004125
+    },
+    "56": {
+      "char": "8",
+      "count": 10195,
+      "probability": 0.019912
+    },
+    "54": {
+      "char": "6",
+      "count": 10039,
+      "probability": 0.019607
+    },
+    "119": {
+      "char": "w",
+      "count": 2058,
+      "probability": 0.00402
+    },
+    "55": {
+      "char": "7",
+      "count": 10251,
+      "probability": 0.020021
+    },
+    "77": {
+      "char": "M",
+      "count": 2122,
+      "probability": 0.004145
+    },
+    "86": {
+      "char": "V",
+      "count": 1084,
+      "probability": 0.002117
+    },
+    "76": {
+      "char": "L",
+      "count": 1070,
+      "probability": 0.00209
+    }
+  }
+}
